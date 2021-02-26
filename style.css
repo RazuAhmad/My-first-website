@@ -17,3 +17,9 @@ li a:hover{
     color:brown;
     background-color: cornsilk;
 }
+img{
+    opacity: .5;
+}
+img:hover{
+    opacity: 2.0;
+}
